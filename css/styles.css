@@ -92,4 +92,5 @@ li.important {
   width: 100px;
   float: right;
   background-color: black;
+  border: 5px solid rgb(85, 85, 206);
 }
