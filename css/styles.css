@@ -3,3 +3,10 @@
   text-align: center;
   border: 25px solid red;
 }
+
+img {
+  max-width: 400px;
+  height: auto;
+  float: right;
+  border: 15px solid red;
+}
