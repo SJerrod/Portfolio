@@ -1,7 +1,7 @@
 .jumbotron {
   background-color: skyblue;
   text-align: center;
-  border: 15px solid red;
+  border: 15px solid rgb(85, 85, 206);
   color: black;
 }
 
@@ -9,7 +9,7 @@ img {
   max-width: 400px;
   height: auto;
   float: right;
-  border: 15px solid red;
+  border: 15px solid rgb(85, 85, 206);
 }
 
 body {
@@ -45,14 +45,21 @@ h3 {
 }
 
 .panel-body ul {
-  background-color: red;
+  background-color: rgb(85, 85, 206);
   font-size: larger;
   color: white;
   font-weight: bold;
 }
 
-p.click {
+.nav-pills {
   background-color: black;
   text-align: center;
   font-size: 20px;
+}
+
+.panel-body ol {
+  background-color: rgb(85, 85, 206);
+  font-size: larger;
+  color: white;
+  font-weight: bold;
 }
