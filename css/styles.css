@@ -1,7 +1,8 @@
 .jumbotron {
   background-color: skyblue;
   text-align: center;
-  border: 25px solid red;
+  border: 15px solid red;
+  color: black;
 }
 
 img {
@@ -19,6 +20,7 @@ p {
   font-size: 30px;
   font-family: Times;
   background-color: grey;
+  padding: 5px;
 }
 
 h2 {
@@ -43,8 +45,13 @@ h3 {
 }
 
 .panel-body ul {
-  background-color: black;
+  background-color: red;
   font-size: larger;
   color: white;
   font-weight: bold;
+}
+
+li.click {
+  background-color: black;
+  padding: 5px;
 }
