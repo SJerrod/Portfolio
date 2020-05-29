@@ -23,6 +23,7 @@ p {
   background-color: grey;
   padding: 5px;
   margin: none;
+  border:15px solid rgb(85, 85, 206)
 }
 
 .well {
@@ -88,5 +89,7 @@ li.important {
 }
 
 .resume {
-  float: left;
+  width: 100px;
+  float: right;
+  background-color: black;
 }
