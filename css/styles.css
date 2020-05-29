@@ -28,3 +28,15 @@ h2 {
 h3 {
   text-align: center;
 }
+
+.sunshine {
+  background-color: orange;
+}
+
+.blue {
+  background-color: skyblue;
+}
+
+.green {
+  background-color: springgreen;
+}
