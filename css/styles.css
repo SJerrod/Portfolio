@@ -80,3 +80,7 @@ ol .panel-body {
 .bg-primary {
   padding: 5px;
 }
+
+li.important {
+  background-color: silver;
+}
