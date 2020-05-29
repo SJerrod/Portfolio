@@ -10,3 +10,7 @@ img {
   float: right;
   border: 15px solid red;
 }
+
+body {
+  background-color: silver;
+}
