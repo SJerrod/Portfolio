@@ -1,5 +1,5 @@
 .jumbotron {
-  background-color: aqua;
+  background-color: skyblue;
   text-align: center;
   border: 25px solid red;
 }
@@ -30,10 +30,6 @@ h3 {
   text-align: center;
 }
 
-.col-md-4 {
-  border: 5px thick black;
-}
-
 .sunshine {
   background-color: orange;
 }
@@ -44,4 +40,11 @@ h3 {
 
 .green {
   background-color: springgreen;
+}
+
+.panel-body ul {
+  background-color: black;
+  font-size: larger;
+  color: white;
+  font-weight: bold;
 }
