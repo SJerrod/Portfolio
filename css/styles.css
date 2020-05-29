@@ -83,4 +83,10 @@ ol .panel-body {
 
 li.important {
   background-color: silver;
+  border-bottom: 5px solid rgb(85, 85, 206);
+  padding: 5px;
+}
+
+.resume {
+  float: left;
 }
