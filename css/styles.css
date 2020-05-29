@@ -14,3 +14,17 @@ img {
 body {
   background-color: silver;
 }
+
+p {
+  font-size: 30px;
+  font-family: Times;
+  background-color: grey;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
