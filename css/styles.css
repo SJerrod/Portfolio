@@ -68,11 +68,15 @@ h3 {
   font-size: 20px;
 }
 
-
-
 ol .panel-body {
-  border: 15px solid red;
+  border: 15px solid rgb(85, 85, 206);
   padding: 50px;
   font-size: 25px;
   line-height: 50px;
+  font-weight: bold;
+  background-color: grey;
+}
+
+.bg-primary {
+  padding: 5px;
 }
