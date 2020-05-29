@@ -26,7 +26,12 @@ h2 {
 }
 
 h3 {
+  border: 5px solid black;
   text-align: center;
+}
+
+.col-md-4 {
+  border: 5px thick black;
 }
 
 .sunshine {
