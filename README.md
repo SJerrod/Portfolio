@@ -8,10 +8,10 @@
 
 ## Setup
 
-*[Open in Github](https://github.com/SJerrod/Portfolio.git)
-*Clone repository 
-*Copy path
-*Open through browser or preview
+* [Open in Github](https://github.com/SJerrod/Portfolio.git)
+* Clone repository 
+* Copy path
+* Open through browser or preview
 
 ## Bugs
 
