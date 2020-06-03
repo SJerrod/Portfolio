@@ -9,6 +9,7 @@
 ## Setup
 
 *[Open in Github](https://github.com/SJerrod/Portfolio.git)
+*[Open in Github](https://sjerrod.github.io/Portfolio/)
 *Clone repository 
 *Copy path
 *Open through browser or preview
